@@ -3,7 +3,7 @@
     <img width="300" src="https://raw.githubusercontent.com/wasmerio/wasmer/master/assets/logo.png" alt="Wasmer logo">
   </a>
   
-  <h1>Wasmer Go</h1>
+  <h1>Gasms!</h1>
   
   <p>
     <a href="https://github.com/wasmerio/wasmer-go/actions?query=workflow%3A%22Build+and+Test%22">
